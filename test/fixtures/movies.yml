@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  movie_id: 1
+  movie_drive: MyString
+  movie_directory: MyString
+  movie_filename: MyString
+  movie_extension: MyString
+  movie_filesize: 1
+
+two:
+  movie_id: 1
+  movie_drive: MyString
+  movie_directory: MyString
+  movie_filename: MyString
+  movie_extension: MyString
+  movie_filesize: 1

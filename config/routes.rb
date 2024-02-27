@@ -1,5 +1,6 @@
-Rails.application.routes.draw do
-  get 'home/index'
+Rails.application.routes.draw do  
+  resources :movie_details
+  resources :movies
   get 'home/about'
   root 'home#index'
   # Define your application routes per the DSL in https://guides.rubyonrails.org/routing.html
